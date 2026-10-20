@@ -1,7 +1,6 @@
 # Project RiftRunners
 
 <img width="640" height="360" alt="Tracking" src="https://github.com/user-attachments/assets/614f2299-1bb0-4395-baf6-34d6db61077b" />
-<img width="640" height="360" alt="GunPCG" src="https://github.com/user-attachments/assets/e5e5c1c4-8f0a-4c50-b613-b6520e49023c" />
 
 Unreal Engine 5.8 기반 3인칭 협동 슈터 팀 프로젝트입니다.
 
