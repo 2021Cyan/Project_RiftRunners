@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/d546c7b4-3ec1-4b8e-9973-5b8e979ca4c9
 # Project RiftRunners
 
 <img width="640" height="360" alt="Tracking" src="https://github.com/user-attachments/assets/614f2299-1bb0-4395-baf6-34d6db61077b" />
