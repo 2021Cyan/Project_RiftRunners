@@ -1,8 +1,8 @@
-# 몬스터 타깃 선정 재정립
+# #105 몬스터 타깃 선정 재정립
 
 ## Issue
 
-- Issue 번호: (미발급 — 발급 후 파일명을 `Issue-NN-Monster-Target-Selection.md`로 변경)
+- 정리 번호: 105 (포트폴리오 문서 정리용 임의 번호이며, 원본 GitHub 이슈 번호가 아닙니다.)
 - 기능명: 멀티플레이 환경 몬스터 타깃 선정 재정립
 - 담당 영역: AI / Perception / StateTree
 - 선행 이슈: #31 AI Controller 및 State Tree 기본 구조 구현, #47 서버 통합 및 Replication 기본 구조 구현

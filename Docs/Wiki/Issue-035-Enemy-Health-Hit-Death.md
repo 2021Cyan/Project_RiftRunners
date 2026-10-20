@@ -39,7 +39,7 @@ Definition은 StatTableRowHandle로 초기 스탯을 참조한다. CommonEnemyCh
 
 ### 실제 적용 피해 사용
 
-피해 통계와 보상 기여도는 AppliedDamage를 사용한다. 사망 이벤트를 보내기 전에 마지막 타격을 기록한다. 보상 정책은 [#36 적 처치 보상](Issue-36-Enemy-Drop-Reward), 보스 클리어는 [#40](Issue-40-Boss-Death-Game-Clear)을 참고한다.
+피해 통계와 보상 기여도는 AppliedDamage를 사용한다. 사망 이벤트를 보내기 전에 마지막 타격을 기록한다. 보상 정책은 [#36 적 처치 보상](./Issue-036-Enemy-Drop-Reward.md), 보스 클리어는 [#40](./Issue-040-Boss-Death-Game-Clear.md)을 참고한다.
 
 ## 구현 내용
 

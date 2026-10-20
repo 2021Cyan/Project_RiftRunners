@@ -61,7 +61,7 @@ Enemy Definition
 
 ### 인지와 타깃 선택
 
-`AMonsterAIController`가 인지 정보와 타깃 평가를 관리한다. `ACommonEnemyAIController`는 휴면 중 평가를 중단하고 사망·은신 등 유효하지 않은 플레이어를 후보에서 제외한다. 타깃 선택의 상세 정책은 [몬스터 타깃 선택](Monster-Target-Selection)을 참고한다.
+`AMonsterAIController`가 인지 정보와 타깃 평가를 관리한다. `ACommonEnemyAIController`는 휴면 중 평가를 중단하고 사망·은신 등 유효하지 않은 플레이어를 후보에서 제외한다. 타깃 선택의 상세 정책은 [몬스터 타깃 선택](./Issue-105-Monster-Target-Selection.md)을 참고한다.
 
 ### 패턴 선택과 준비
 
@@ -83,7 +83,7 @@ Enemy Definition
 
 ### 피격과 사망
 
-Evaluator가 전투 상태와 태그를 State Tree에 전달한다. 피격 반응은 GA와 상태 태그로 연결한다. 사망 시 컨트롤러의 `StopAIForDeath()`로 AI를 중단한다. 상세 흐름은 [#35 적 체력·피격·사망](Issue-35-Enemy-Health-Hit-Death)을 참고한다.
+Evaluator가 전투 상태와 태그를 State Tree에 전달한다. 피격 반응은 GA와 상태 태그로 연결한다. 사망 시 컨트롤러의 `StopAIForDeath()`로 AI를 중단한다. 상세 흐름은 [#35 적 체력·피격·사망](./Issue-035-Enemy-Health-Hit-Death.md)을 참고한다.
 
 ## 관련 구현
 

@@ -7,12 +7,12 @@
 <!-- MEETING_NOTES_START -->
 | 주차 | 회의록 |
 |---|---|
-| Week0 | [Week0 회의록](Meeting-Notes-Week0) |
-| Week1 | [Week1 회의록](Meeting-Notes-Week1) |
-| Week2 | [Week2 회의록](Meeting-Notes-Week2) |
-| Week3 | [Week3 회의록](Meeting-Notes-Week3) |
-| Week4 | [Week4 회의록](Meeting-Notes-Week4) |
-| Week6 | [Week6 회의록](Meeting-Notes-Week6) |
+| Week0 | [Week0 회의록](../Meetings/Week0.md) |
+| Week1 | [Week1 회의록](../Meetings/Week1.md) |
+| Week2 | [Week2 회의록](../Meetings/Week2.md) |
+| Week3 | [Week3 회의록](../Meetings/Week3.md) |
+| Week4 | [Week4 회의록](../Meetings/Week4.md) |
+| Week6 | [Week6 회의록](../Meetings/Week6.md) |
 <!-- MEETING_NOTES_END -->
 
 ## 작성 기준

@@ -179,7 +179,7 @@ ACommonEnemyCharacter
 
 ## 후속 작업
 
-- [#40 보스 사망 및 게임 클리어 처리](Issue-40-Boss-Death-Game-Clear)의 멀티플레이 통합 검증
+- [#40 보스 사망 및 게임 클리어 처리](./Issue-040-Boss-Death-Game-Clear.md)의 멀티플레이 통합 검증
 - 보스 전용 체력바의 표시 이름 및 상태 갱신 검증
 - 패턴별 VFX, SFX 및 Gameplay Cue 연동
 - 멀티플레이 환경에서 보스 이동 및 Form 동기화 검증

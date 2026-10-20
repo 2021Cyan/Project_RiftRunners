@@ -58,7 +58,7 @@ Select Enemy Pattern → Prepare Enemy Pattern
 Execute Enemy Pattern → Wait Pattern Recovery → Enemy Idle Movement
 ```
 
-인지·등장·피격·회피·타깃 상실은 공용 상태 흐름과 이벤트로 연결한다. 패턴은 거리·고도·체력·쿨다운 등의 조건으로 선택하며 실행 직전에 다시 검사한다. 전투 상태 흐름은 [#31](Issue-31-AI-Controller-State-Tree)을 참고한다.
+인지·등장·피격·회피·타깃 상실은 공용 상태 흐름과 이벤트로 연결한다. 패턴은 거리·고도·체력·쿨다운 등의 조건으로 선택하며 실행 직전에 다시 검사한다. 전투 상태 흐름은 [#31](./Issue-031-AI-Controller-State-Tree.md)을 참고한다.
 
 ## 설계 결정
 
@@ -220,5 +220,5 @@ Issue #32의 최초 구현 이후, Phantom을 포함한 공통 몬스터 기반�
 - Gameplay Cue 연동 정리 및 시각 효과 조정
 - 행동별 거리·가중치·쿨다운 밸런스 조정
 - 체력바 및 전투 상태 UI 갱신 검증
-- [#36 보상 드랍](Issue-36-Enemy-Drop-Reward) 연동 검증
+- [#36 보상 드랍](./Issue-036-Enemy-Drop-Reward.md) 연동 검증
 - 실제 전투 시나리오 및 멀티플레이 환경 검증

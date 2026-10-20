@@ -51,7 +51,7 @@ Wait Pattern Recovery → Enemy Idle Movement → 다음 패턴
 
 ### State Tree 구조
 
-엘리트도 근접 몬스터와 같은 공용 `ST_Enemy_Common`을 쓴다(`BP_MonsterAIController_Elite`가 지정). 전체 구조는 [Issue-32 근접 몬스터](Issue-32-Melee-Enemy)의 State Tree 구조를 따르고, 엘리트의 전투 흐름은 그중 `CombatLoop`다. 엘리트 전용 State Tree(`ST_Enemy_Elite`)는 폐기했고, 엘리트만의 차이는 패턴 세트(`DA_Elite_Pattern`), 지상 이동 컴포넌트, 특성으로 만든다.
+엘리트도 근접 몬스터와 같은 공용 `ST_Enemy_Common`을 쓴다(`BP_MonsterAIController_Elite`가 지정). 전체 구조는 [Issue-32 근접 몬스터](./Issue-032-Melee-Enemy.md)의 State Tree 구조를 따르고, 엘리트의 전투 흐름은 그중 `CombatLoop`다. 엘리트 전용 State Tree(`ST_Enemy_Elite`)는 폐기했고, 엘리트만의 차이는 패턴 세트(`DA_Elite_Pattern`), 지상 이동 컴포넌트, 특성으로 만든다.
 
 ```text
 Combat [HasEncountered == true, HasTarget == true]

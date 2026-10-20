@@ -138,7 +138,7 @@ UPROPERTY(BlueprintAssignable) FOnPlayerVitalsChanged OnVitalsChanged;  // (Heal
 
 Health와 MaxHealth를 각각 복제 프로퍼티로 두지 않고 **구조체 하나로 묶었다.** 따로 두면 두 값이 같은 프레임에 바뀔 때 OnRep이 두 번 돌고, 그사이에 `Health > MaxHealth`인 중간 상태가 UI에 한 프레임 노출된다.
 
-같은 이유로 로드아웃(`FDLPlayerLoadout`)도 구조체 단위로 복제한다. 로드아웃 쪽은 [#47 서버 통합 및 Replication](Issue-47-Server-Session-Replication)에서 다룬다.
+같은 이유로 로드아웃(`FDLPlayerLoadout`)도 구조체 단위로 복제한다. 로드아웃 쪽은 [#47 서버 통합 및 Replication](./Issue-047-Server-Session-Replication.md)에서 다룬다.
 
 ### 값이 흘러가는 경로
 
