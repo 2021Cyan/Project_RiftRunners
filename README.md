@@ -7,7 +7,7 @@ Unreal Engine 5.8 기반 3인칭 협동 슈터 팀 프로젝트입니다.
 
 > 제가 최초 작성한 파일 중 담당 기능에 필요한 코드를 [`Workspace/CYW`](./Workspace/CYW)에 정리했습니다.
 
-
+[포트폴리오](https://docs.google.com/presentation/d/1rFRLqC5LTGMRnFIa1I4LtJTnm4rkznQ9xLgCSryhTko/edit?usp=sharing)
 ---
 
 ## 팀원 소개
